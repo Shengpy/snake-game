@@ -1,0 +1,7 @@
+﻿  snake.cpp
+C:\Users\Sheng\source\repos\snake\snake\Header.h(27,26): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+C:\Users\Sheng\source\repos\snake\snake\Header.h(27,29): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+C:\Users\Sheng\source\repos\snake\snake\snake.cpp(32,1): warning C4005: 'AbScreen_x': macro redefinition
+C:\Users\Sheng\source\repos\snake\snake\snake.cpp(12): message : see previous definition of 'AbScreen_x'
+C:\Users\Sheng\source\repos\snake\snake\snake.cpp(868,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  snake.vcxproj -> C:\Users\Sheng\source\repos\snake\Debug\snake.exe
